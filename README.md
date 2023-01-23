@@ -1,8 +1,5 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username)
-<!--[![Analytics](https://ga-beacon.appspot.com/UA-XXXXX-X/welcome-page)](https://github.com/igrigorik/ga-beacon)-->
-[![](https://ga-beacon.appspot.com/UA-254818667-1/sneyd321)](https://github.com/igrigorik/ga-beacon)
-
 
 <!--
 **sneyd321/sneyd321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
