@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username)
-![](https://ga-beacon.appspot.com/UA-254818667-1/welcome-page)
+<!--[![Analytics](https://ga-beacon.appspot.com/UA-XXXXX-X/welcome-page)](https://github.com/igrigorik/ga-beacon)-->
+![?pixel](https://ga-beacon.appspot.com/UA-254818667-1/sneyd321)
 
 
 <!--
