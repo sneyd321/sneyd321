@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 <!--[![Analytics](https://ga-beacon.appspot.com/UA-XXXXX-X/welcome-page)](https://github.com/igrigorik/ga-beacon)-->
-![?pixel](https://ga-beacon.appspot.com/UA-254818667-1/sneyd321)
+[![](https://ga-beacon.appspot.com/UA-254818667-1/sneyd321)](https://github.com/igrigorik/ga-beacon)
 
 
 <!--
